@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm S.Ravant Vignesh
 
 🎓 **AI & Data Science Undergraduate**  
 💻 **Web Developer | Open Source Contributor**  
@@ -63,9 +63,8 @@
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: *(add link)*  
-- 🌐 Portfolio: *(add if available)*  
-- 📫 Email: *(optional)*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/s-ravant-vignesh-384b01373*  
+- 📫 Email: *messiahravant@gamil.com*  
 
 ---
 
