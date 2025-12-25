@@ -1,6 +1,6 @@
 # Hi 👋, I'm S.Ravant Vignesh
 
-🎓 **AI & Data Science Undergraduate**  
+🎓 **AI & Data Science Student**  
 💻 **Web Developer | Open Source Contributor**  
 🤖 **Machine Learning Enthusiast**  
 🌱 Passionate about building impactful tech and contributing to open source communities
@@ -13,7 +13,7 @@
 - 💻 Web developer experienced in building modern, scalable applications  
 - 🧠 Actively learning **Machine Learning & AI concepts**  
 - 🌍 Enthusiastic open-source contributor (aiming for **GSoC 2026**)  
-- 🏫 Former **GeeksforGeeks Campus Ambassador**  
+- 🏫 **GeeksforGeeks Campus Ambassador**  
 - 🏆 Recipient of the **Precious Saint Chavara Exemplar Award** for:
   - Academic excellence  
   - Dedicated service in education  
