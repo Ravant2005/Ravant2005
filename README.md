@@ -236,36 +236,30 @@ me.say_hello()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ravant2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ravant2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravant2005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ravant2005&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ravant2005&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://streak-stats.demolab.com/?user=Ravant2005)
 
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ravant2005&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ravant2005&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ravant2005/Ravant2005/blob/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ravant2005/Ravant2005/blob/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" src="https://github.com/Ravant2005/Ravant2005/blob/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-> ⚙️ **Note:** Snake animation requires a GitHub Actions workflow. [Click here to set it up](https://github.com/Platane/snk).
+[![Ravant's Activity Graph](https://github-activity-graph.vercel.app/graph?username=Ravant2005&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Ravant's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
